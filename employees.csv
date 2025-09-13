@@ -1,0 +1,14 @@
+id,name,department,salary
+101,John Doe,IT,60000
+102,Jane Smith,HR,55000
+103,Bob Lee,IT,62000
+104,Invalid,Data,
+105,Alice Brown,Finance,59000
+106,Ram ,HR,62000
+107,ion,assistant,50000
+109,bhargav,Finance,70000
+110,data,invalid,
+111,pavan,jr,20000
+112,koushik,sr,50000
+113,obul,jr,12000
+114,sai,sr,1000000
